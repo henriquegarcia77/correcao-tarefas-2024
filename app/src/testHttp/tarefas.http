@@ -1,4 +1,4 @@
-@baseUrl = https://8080-marcoweb-correcaotarefa-uwe6kzwk6za.ws-us115.gitpod.io
+@baseUrl = https://8080-marcoweb-correcaotarefa-awujf9hf4c8.ws-us115.gitpod.io
 
 ###
 GET {{baseUrl}}/tarefas
